@@ -6,11 +6,11 @@ Una aplicación moderna y eficiente para buscar y coleccionar tus GIFs favoritos
 
 ##  Funcionalidades Clave
 
-- ** Búsqueda en tiempo real**: Encuentra GIFs de cualquier temática de forma instantánea.
-- ** Historial de búsquedas**: Sidebar dinámico que almacena tus últimas búsquedas para un acceso rápido.
-- ** Persistencia con LocalStorage**: Tu historial se mantiene intacto incluso si recargas la página o cierras el navegador.
-- ** Trending Gifs**: Descubre lo más popular del momento automáticamente al iniciar la aplicación.
-- ** Carga Optimizada**: Gestión eficiente de imágenes para una navegación rápida.
+- **Búsqueda en tiempo real**: Encuentra GIFs de cualquier temática de forma instantánea.
+- **Historial de búsquedas**: Sidebar dinámico que almacena tus últimas búsquedas para un acceso rápido.
+- **Persistencia con LocalStorage**: Tu historial se mantiene intacto incluso si recargas la página o cierras el navegador.
+- **Trending Gifs**: Descubre lo más popular del momento automáticamente al iniciar la aplicación.
+- **Carga Optimizada**: Gestión eficiente de imágenes para una navegación rápida.
 
 ##  Construcción de la UI
 
