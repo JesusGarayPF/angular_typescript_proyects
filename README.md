@@ -29,6 +29,12 @@ Para este proyecto, se han integrado las siguientes herramientas:
 - **TypeScript**: Tipado estricto para asegurar un código robusto y mantenible.
 - **RxJS**: Manejo de flujos de datos asíncronos para las peticiones a la API.
 
+## Galeria de imágenes  
+
+<img width="1918" height="975" alt="1- Trending" src="https://github.com/user-attachments/assets/ad3e87d5-9a08-41f0-bd77-7cfc2b412c9d" />  
+<img width="1918" height="975" alt="2 - Search" src="https://github.com/user-attachments/assets/f0928bc5-00fd-4a18-a7ef-152c8d3f2af8" />  
+<img width="1918" height="971" alt="3 - Historial" src="https://github.com/user-attachments/assets/7a7319da-57a5-4d88-a519-4a48215ccc15" />  
+
 ##  Guía de Ejecución
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
